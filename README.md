@@ -17,7 +17,7 @@ This is a modern and dynamic website template designed for creative agencies or 
 
 ## Credits
 
-- Website template designed by [Osama Elzero](https://www.youtube.com/c/ElzeroWebSchool).
+- Website template designed by [Osama Elzero](https://youtube.com/playlist?list=PLDoPjvoNmBAzvmpzF-6l3tAviiCPbwkB8&si=2rGKRtuWSEBcyxAM).
 - Background images sourced from [Unsplash](https://unsplash.com/).
 - Icons provided by [Font Awesome](https://fontawesome.com/).
 - Fonts from [Google Fonts](https://fonts.google.com/).
