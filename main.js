@@ -107,25 +107,25 @@ getElement(".reset-options").onclick = function () {
 
 const landing = getElement(".landing-page");
 
-let imgs = [
-  "Imgs/01.jpg",
-  "Imgs/02.jpg",
-  "Imgs/03.jpg",
-  "Imgs/04.jpg",
-  "Imgs/05.jpg",
-  "Imgs/06.png",
-  "Imgs/07.jpg",
-  "Imgs/08.jpg",
-  "Imgs/09.jpg",
-  "Imgs/10.jpg",
+let images = [
+  "images/01.jpg",
+  "images/02.jpg",
+  "images/03.jpg",
+  "images/04.jpg",
+  "images/05.jpg",
+  "images/06.png",
+  "images/07.jpg",
+  "images/08.jpg",
+  "images/09.jpg",
+  "images/10.jpg",
 ];
 
 let randomImageInterval;
 
 function interval() {
   randomImageInterval = setInterval(function () {
-    let randomImageNum = Math.floor(Math.random() * imgs.length);
-    landing.style.backgroundImage = `url(${imgs[randomImageNum]})`;
+    let randomImageNum = Math.floor(Math.random() * images.length);
+    landing.style.backgroundImage = `url(${images[randomImageNum]})`;
   }, INTERVAL_TIME);
 }
 interval();
