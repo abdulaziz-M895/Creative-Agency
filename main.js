@@ -108,16 +108,16 @@ getElement(".reset-options").onclick = function () {
 const landing = getElement(".landing-page");
 
 let imgs = [
-  "imgs/01.jpg",
-  "imgs/02.jpg",
-  "imgs/03.jpg",
-  "imgs/04.jpg",
-  "imgs/05.jpg",
-  "imgs/06.png",
-  "imgs/07.jpg",
-  "imgs/08.jpg",
-  "imgs/09.jpg",
-  "imgs/10.jpg",
+  "Imgs/01.jpg",
+  "Imgs/02.jpg",
+  "Imgs/03.jpg",
+  "Imgs/04.jpg",
+  "Imgs/05.jpg",
+  "Imgs/06.png",
+  "Imgs/07.jpg",
+  "Imgs/08.jpg",
+  "Imgs/09.jpg",
+  "Imgs/10.jpg",
 ];
 
 let randomImageInterval;
